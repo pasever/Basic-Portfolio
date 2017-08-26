@@ -98,16 +98,19 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color; 
 }
+
 a {
 	text-decoration: none;
 	color: #4aaaa5;
 	font-size: 16px;
 	
 }
+
 .navPipe {
 	width: 1px; 
 	height: 100%;
 }
+
 section, aside {
 	background: #ffffff;
 	border: 1px solid #dddddd;
@@ -115,6 +118,7 @@ section, aside {
 	padding: 13px 30px 30px 30px;
 	font-size: 18px;
 }
+
 aside {
 	width: 208px;
 	height: 160px;
@@ -126,6 +130,7 @@ h1, h2, h3 {
 	font-size: 24px;
 	color: #4aaaa5;
 }
+
 #PortImagesIcons {
 	width: 588px;
 	margin-top: 40px;
@@ -141,6 +146,7 @@ h1, h2, h3 {
 	font-size: 22px;
 	color: white;
 	text-align: center;
+	margin-top: -7px;
 }
 .PortImages {
 	height: 205px;
