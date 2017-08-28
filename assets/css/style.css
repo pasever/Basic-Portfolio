@@ -2,7 +2,8 @@
 	margin: auto;
 	color: #ffffff;
 	line-height: 70px;
-	font-size: 20px;	
+	font-size: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;	
 }
 
 #bioHrLine {
@@ -45,7 +46,6 @@ nav ul {
 #mybio {
 	width: 960px;
 	margin: 38px auto;
-
 	display: flex;
 	justify-content: space-between;
 }
@@ -96,14 +96,13 @@ body {
 	padding: 0px 15px;
     font-size: 14px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color; 
+    
 }
 
 a {
 	text-decoration: none;
 	color: #4aaaa5;
-	font-size: 16px;
-	
+	font-size: 16px;	
 }
 
 .navPipe {
@@ -115,20 +114,21 @@ section, aside {
 	background: #ffffff;
 	border: 1px solid #dddddd;
 	width: 588px;
-	padding: 13px 30px 30px 30px;
+	padding: 30px 30px 45px 30px;
 	font-size: 18px;
 }
 
 aside {
 	width: 208px;
 	height: 160px;
-	padding: 5px 30px 35px 30px;
+	padding: 30px 30px 20px 30px;
 }
 
 h1, h2, h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 24px;
 	color: #4aaaa5;
+	font-weight: bold;
 }
 
 #PortImagesIcons {
